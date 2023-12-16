@@ -7,10 +7,10 @@
 </ul>
   Test Cases Creation for API-Testing
 <ul>
-<li>  <a href="https://docs.google.com/spreadsheets/d/1ETo6JZ0m5mKMy0ongys7-wt-N2Ea17z9FYCseFvgpcQ/edit#gid=549795683"> Test cases for Store block </a>   </li>
+<li>  <a href="https://docs.google.com/spreadsheets/d/1ETo6JZ0m5mKMy0ongys7-wt-N2Ea17z9FYCseFvgpcQ/edit#gid=549795683"> Test cases </a> for Store block </li>
 </ul>
 
- Using the following <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>, the collection was created in Postman for the next requests: a country's currency, full country information, and country language information: 
+ Using the following <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>, the collection with the next requests was created in Postman: a country's currency, full country information, and country language information: 
  <ul>
 <li> <a href="https://drive.google.com/file/d/1MLDxT4XDqpHP1uadtzQeWRLlWl9PXZRC/view?usp=sharing"> SOAP </a> collection in Postman  </li>
 </ul>
